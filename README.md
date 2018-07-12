@@ -1,2 +1,2 @@
 # lru
-Implementation LRU chace based on Stack
+Implementation LRU cache based on Stack
